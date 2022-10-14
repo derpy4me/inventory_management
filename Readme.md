@@ -9,8 +9,11 @@ The menu will provide an option to exit the application and will be thanked for 
 This is my first Kotlin application using Intellij IDEA. This was a simple app to give me an introduction into learning
 the kotlin language.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough
-of the code. Focus should be on sharing what you learned about the language syntax.}
+## Usage
+
+Install the Kotlin compiler and Java. Link to install `kotlinc` down below.
+From the root of the project run `kotlinc src`
+When finished, run `java -jar MainKt.jar`
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -24,12 +27,13 @@ The Random library was used to create random objects for purchase.
 
 # Useful Websites
 
-* [TutorialsPoint Kotlin](https://www.tutorialspoint.com/kotlin/index.htm)
+- [TutorialsPoint Kotlin](https://www.tutorialspoint.com/kotlin/index.htm)
+- [Install Kotlin](https://kotlinlang.org/docs/command-line.html#snap-package)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-* The ability to sell items for a higher price to earn profit
-* Graphical interface and sdk for android
-* More items for the user to choose from
+- The ability to sell items for a higher price to earn profit
+- Graphical interface and sdk for android
+- More items for the user to choose from
