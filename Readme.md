@@ -29,6 +29,7 @@ The Random library was used to create random objects for purchase.
 
 - [TutorialsPoint Kotlin](https://www.tutorialspoint.com/kotlin/index.htm)
 - [Install Kotlin](https://kotlinlang.org/docs/command-line.html#snap-package)
+- [Install Java](https://www.oracle.com/java/technologies/downloads/#java17)
 
 # Future Work
 
