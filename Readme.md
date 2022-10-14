@@ -15,7 +15,7 @@ Install the Kotlin compiler and Java. Link to install `kotlinc` down below.
 From the root of the project run `kotlinc src`
 When finished, run `java -jar MainKt.jar`
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/NWGfQ0HxsW4)
 
 # Development Environment
 
